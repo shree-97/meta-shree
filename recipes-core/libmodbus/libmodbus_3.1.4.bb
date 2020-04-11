@@ -1,4 +1,4 @@
-DESCRIPTION = "recipe for libmodbus"
+DESCRIPTION = "yocto recipe for libmodbus"
 LICENSE = "GPLv3"
 LIC_FILES_CHKSUM = "file://README.md;md5=38dea4913309d29062ac8c13628a8c88"
 SRC_URI += "git://github.com/stephane/libmodbus.git"
